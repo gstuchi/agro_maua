@@ -66,5 +66,4 @@ agro_maua/
 
 
 ---
-
-<p align="center">Feito com 🌱 por estudantes apaixonados pelo agro · Instituto Mauá de Tecnologia</p>
+Apenas em testes...
