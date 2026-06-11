@@ -54,40 +54,16 @@ agro_maua/
 
 ---
 
-## 🚀 Como rodar localmente
 
-Por ser um site estático, basta abrir o `index.html` no navegador.
 
-Para uma experiência mais próxima da produção, use um servidor local:
-
-```bash
-# com Node.js
-npx serve .
-
-# ou com Python
-python -m http.server 3000
-```
-
-E acesse `http://localhost:3000`.
-
----
-
-## 📦 Deploy
-
-O site é publicado automaticamente via **GitHub Pages** a partir da branch `main`.
-
----
-
-## 👥 Diretoria
-
-| Nome              | Cargo                        | Curso                  |
-|-------------------|------------------------------|------------------------|
-| Laura Brandão     | Presidência                  | Administração          |
-| Gustavo Magno     | Diretor de Projetos          | Ciência da Computação  |
+## 👥 Feito por :
 | Giovani Stuchi    | Desenvolvedor Líder          | Ciência da Computação  |
+
+# Com ajuda / suporte de :
+| Gustavo Magno     | Diretor de Projetos          | Ciência da Computação  |
+
 | Fabrício Carreri  | Gerente de Desenvolvimento   | Ciência da Computação  |
-| Luan Rodrigues    | Diretor de Marketing         | Administração          |
-| Ettore Largura    | Recursos Humanos             | Recursos Humanos       |
+
 
 ---
 
