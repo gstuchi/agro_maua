@@ -1,4 +1,4 @@
-# 🌱 Agro Maúá — Site Institucional - Tentativa
+# 🌱 Agro Maúá — Site Institucional - Tentativa 2
 
 Site institucional da **Agro Maúá**, entidade estudantil de agronegócio do
 **Instituto Mauá de Tecnologia (IMT)**.
